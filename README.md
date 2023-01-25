@@ -1,0 +1,2 @@
+# Nuxt-RandomNumber
+ Nuxt-RandomNumber
