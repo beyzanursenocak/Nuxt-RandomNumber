@@ -1,5 +1,3 @@
-# mgstask3
-
 ## Build Setup
 
 ```bash
