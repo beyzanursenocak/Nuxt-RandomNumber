@@ -1,0 +1,16 @@
+[
+  {
+    "name": "interger",
+    "path": "/interger",
+    "component": "C:\\\\Users\\\\Fatih\\\\Documents\\\\GitHub\\\\Nuxt-RandomNumber\\\\pages\\\\interger.vue",
+    "chunkName": "pages/interger",
+    "_name": "_36ebab7c"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\Fatih\\\\Documents\\\\GitHub\\\\Nuxt-RandomNumber\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_599b81fe"
+  }
+]
